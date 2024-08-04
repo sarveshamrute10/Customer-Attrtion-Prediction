@@ -2,9 +2,9 @@
 
 # Details of the Project
 
--**Objective** : To predict the probability of attrition with given telecom data of customer
-- **.** Trained 6330 customers data having 14 features using boosting methods like **CatBoost**, **XGBoost**, **LightGBM** and **Histogram Gradient Boosting**
-- **.** Measured feature importance obtained from trained models and re-trained the models with various sets of features and hyperparameter tuning
+**Objective** : To predict the probability of attrition with given telecom data of customer
+- Trained 6330 customers data having 14 features using boosting methods like **CatBoost**, **XGBoost**, **LightGBM** and **Histogram Gradient Boosting**
+- Measured feature importance obtained from trained models and re-trained the models with various sets of features and hyperparameter tuning
 - Achieved **80.79%** Categorization accuracy on unseen 2800 test dataset using ensemble of best models obtained from 15 training experiments
 - For more details visit [competition page](https://www.kaggle.com/c/customerattritionprediction/overview)
 
